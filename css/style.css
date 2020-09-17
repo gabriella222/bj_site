@@ -1,0 +1,35 @@
+body{
+
+background-color:  #990000e0;
+
+}
+
+.nome{
+
+    margin-left: 60px;
+}
+
+h1{
+
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 130px;
+    margin-top: 80px;
+
+
+}
+h3{
+
+    font-family: 'Kumbh Sans', sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+
+.image{
+
+    margin-left: 100px;
+    margin-top: 15px;
+    width:500px;
+    height:500px;
+
+}
